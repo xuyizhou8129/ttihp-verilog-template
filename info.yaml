@@ -24,23 +24,23 @@ project:
 pinout:
   # Inputs
   ui[0]: "A"
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: ""
-  ui[5]: ""
-  ui[6]: ""
-  ui[7]: ""
+  ui[1]: "NA"
+  ui[2]: "NA"
+  ui[3]: "NA"
+  ui[4]: "NA"
+  ui[5]: "NA"
+  ui[6]: "NA"
+  ui[7]: "NA"
 
   # Outputs
   uo[0]: "B"
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[1]: "NA"
+  uo[2]: "NA"
+  uo[3]: "NA"
+  uo[4]: "NA"
+  uo[5]: "NA"
+  uo[6]: "NA"
+  uo[7]: "NA"
 
   # Bidirectional pins
   uio[0]: ""
